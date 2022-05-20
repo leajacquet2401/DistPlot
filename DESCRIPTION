@@ -1,0 +1,14 @@
+Package: DistPlot
+Type: Package
+Title: Create an interactive density plot
+Version: 0.1.0.9000
+Authors@R: person (given="Léa", family="Jacquet", role=c("aut", "cre"), email= "lea.jacquet@student.uclouvain.be")
+Description: This package creates 2 plots representing the Normal density and the Student density. There are interactive. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.2.0
+Roxygen: list(markdown = TRUE)
+NeedsCompilation: no
+Packaged: 2022-05-20 14:13:06 UTC; leajacquet
+Author: Léa Jacquet [aut, cre]
+Maintainer: Léa Jacquet <lea.jacquet@student.uclouvain.be>
